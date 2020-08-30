@@ -1,0 +1,3 @@
+2020-08-30 08:05:38.0385 INFO Accessed Home Controller
+2020-08-30 08:08:13.2923 ERROR This is an error
+2020-08-30 08:18:53.4440 WARN This is warning
